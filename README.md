@@ -1,17 +1,16 @@
 # Relatório
-###Membros: Matheus Gomes de Oliveira, João Lucas Tenório de Menezes e Gabriel Velozo Tojal
--Discente 1
 
--Nome: TODO
--Matrícula: TODO
--Distribuição da nota (%): TODO
--Discente 2
+*Discente 1
+* Nome: Gabriel Velozo Tojal
+* Matrícula: 18110468
+* Distribuição da nota (%): TODO
 
--Nome: TODO
--Matrícula: TODO
--Distribuição da nota (%): TODO
--Discente 3
+* Discente 2
+*Nome: Matheus Gomes de Oliveira
+*Matrícula: asdasd
+*Distribuição da nota (%): TODO
 
--Nome: TODO
--Matrícula: TODO
--Distribuição da nota (%): TODO
+*Discente 3
+*Nome:  João Lucas Tenório de Menezes
+*Matrícula: 18112703
+*Distribuição da nota (%): TODO
