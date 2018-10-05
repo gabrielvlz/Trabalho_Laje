@@ -14,3 +14,8 @@
     * Nome:  João Lucas Tenório de Menezes
     * Matrícula: 18112703
     * Distribuição da nota (%): TODO
+
+# ESPAÇO PARA O GRÁFICO 
+
+##Discussão
+######   Após as primeiras falhas no projeto, resultando na perda de desempenho e parada de funcionamente de alguns computadores, previa-###### se uma curva ascendente tal qual acentuada com abuso da memória e processamento. 
