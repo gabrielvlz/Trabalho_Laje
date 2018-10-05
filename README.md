@@ -17,5 +17,5 @@
 
 # ESPAÇO PARA O GRÁFICO 
 
-##Discussão
+## Discussão
 ######   Após as primeiras falhas no projeto, resultando na perda de desempenho e parada de funcionamente de alguns computadores, previa-###### se uma curva ascendente tal qual acentuada com abuso da memória e processamento. 
