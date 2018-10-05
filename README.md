@@ -28,4 +28,4 @@
 
 
 ## Discussão
-######   Após as primeiras falhas no projeto, resultando na perda de desempenho e parada de funcionamente de alguns computadores; previa-###### se uma curva ascendente até tornar-se constante em 100% em relação ao uso de CPU (considerando uma máquina de core único). Contudo, ao tratar-se da memória, após seu pico de uso; ele decai significativamente devido ao uso do sleep, que ao apriximar-se do limite ele suaviza o malloc para não cair imediatamente.
+######   Após as primeiras falhas no projeto, com visível perda de desempenho e parada de funcionamento de alguns computadores devido ao abuso do processador; previa-se uma curva crescendente que atingiria o limite rapidamente, tornando-se constante em 100% (considerando um de core único). Contudo, ao tratar-se da memória, seu uso ascende até decair significativamente; tal fato ocorre devido da utilização, no processo pai(linhas de código 30 a 47), de um comando "sleep(tempo em segundos)" que ao se aproximar do limite de seu While reduz o gasto de memória para evitar desperdício, benefício que não ocorreria com um timeset . 
